@@ -1,7 +1,7 @@
 {
   "rom_url": "http://bigota.d.miui.com/V12.5.1.0.QEACNXM/dipper_images_V12.5.1.0.QEACNXM_20210602.0000.00_10.0_cn_2e31c53530.tgz",
-  "rom_name": "MIUI_12.5.1_11_QEACNXM_20210602.zip",
-  "pack_sgsi": "MIUI_12.5.1_11_QEACNXM_20210602_dipper.zip",
+  "rom_name": "MIUI_12.5.1_11_QEACNXM_20210602.tgz",
+  "pack_sgsi": "MIUI_12.5.1_11_QEACNXM_20210602_sgsi.tgz",
   "make_type": "AB",
   "rom_type": "miui",
   "light_fix": true,

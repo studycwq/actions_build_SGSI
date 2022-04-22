@@ -4,7 +4,7 @@
   "pack_sgsi": "MIUI_12.5.1_11_QEACNXM_20210602_sgsi.tgz",
   "make_type": "AB",
   "rom_type": "miui",
-  "light_fix": true,
+  "light_fix": false,
   "bug_fix": true,
   "version": "11",
   "upload_transfer": true,
